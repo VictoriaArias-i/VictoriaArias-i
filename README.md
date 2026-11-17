@@ -25,6 +25,7 @@ En programación ya he desarrollado distintos proyectos:
 |---|---|
 | [**Trad_NDS_T**](https://github.com/VictoriaArias-i/Trad_NDS_T) | Códigos en Python para traducir un juego de DS |
 | [**ascii-animation**](https://github.com/VictoriaArias-i/ascii-animation) | Mi dibujo animado en ASCII: mano saludando, parpadeo y pelo (la animación de arriba) |
+| [**Portafolio_26_27**]([(https://github.com/VictoriaArias-i/Portafolio_26_27)]) | Portafolio de dibujo y codigo en proceso del año 2026 - 2027 |
 
 ## Stack
 
