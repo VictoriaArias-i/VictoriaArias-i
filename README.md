@@ -34,6 +34,3 @@ En programación ya he desarrollado distintos proyectos:
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
 ![Procreate](https://img.shields.io/badge/Procreate-1A1A1A?logo=procreate&logoColor=white)
 
-## Ahora
-
-Aprendiendo animación y arte generativo con Python.
